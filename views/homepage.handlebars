@@ -1,0 +1,8 @@
+<h2 class="posts-title"> Recent Posts: </h2>
+<ol>
+  {{#each posts as |post|}}
+  <li>
+     {{> post-info post }}
+  </li>
+  {{/each}}
+</ol>
