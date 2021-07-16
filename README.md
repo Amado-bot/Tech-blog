@@ -1,6 +1,6 @@
 # Tech-blog
 
-## Tech-Blog
+## description
 This is a fake tech blog i developed where you can create a user, post, comment, deit and delete existing posts
 
 The app also uses user session cookies to validate the user and prevent unwanted intrusions.
