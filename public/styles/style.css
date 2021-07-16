@@ -8,7 +8,7 @@
 
 a {
     text-decoration: none;
-    color: rgb(0, 255, 21)
+    color: rgb(255, 0, 0)
 }
 a:hover {
     color: red;
@@ -21,11 +21,6 @@ a:hover {
     min-height: 100%;
     max-width: 1600px;
     color: white;
-}
-
-.fav {
-    color: rgb(0, 255, 21);
-    font-family: 'Great Vibes', cursive;
 }
 
 .title, .title2 {
@@ -51,7 +46,7 @@ a:hover {
     font-weight:bolder;
     font-size: 1em;
     color: rgb(255, 255, 255);
-    background-color: rgb(0, 255, 21);
+    background-color: rgb(255, 0, 0);
     text-shadow: 0 0.04em 0.04em rgba(3, 3, 3, 0.2);
     text-align: center;
 }
